@@ -7,6 +7,5 @@
 
 ### TODO
 
-0. Why is the pool value going down over time? it should be going up.
 1. LP removal + ILP  to our vault
 2. Figure out how to map the vault-stakers' return to the vault returns. Do the thing where we swap the assets to give them back in the form they want.
